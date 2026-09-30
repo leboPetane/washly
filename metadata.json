@@ -1,0 +1,6 @@
+{
+  "name": "Washly",
+  "description": "On-demand mobile car washing marketplace connecting vehicle owners with local mobile car wash pros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
